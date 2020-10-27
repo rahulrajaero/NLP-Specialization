@@ -1,2 +1,2 @@
 *.rar
-*.tar
+*.tar.gz
